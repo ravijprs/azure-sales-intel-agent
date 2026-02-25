@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "sm1",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm1",
+    "gender": "Female",
+    "age": 31,
+    "tenureYears": 7,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.68,
+      "Q2_2025": 0.32,
+      "Q3_2025": 0.12,
+      "Q4_2025": 0.6
+    }
+  },
+  {
+    "id": "sm2",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm2",
+    "gender": "Male",
+    "age": 52,
+    "tenureYears": 6,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.89,
+      "Q2_2025": 0.34,
+      "Q3_2025": 0.06,
+      "Q4_2025": 0.14
+    }
+  },
+  {
+    "id": "sm3",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm3",
+    "gender": "Female",
+    "age": 51,
+    "tenureYears": 12,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.82,
+      "Q2_2025": 0.71,
+      "Q3_2025": 0.99,
+      "Q4_2025": 0.65
+    }
+  },
+  {
+    "id": "sm4",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm4",
+    "gender": "Female",
+    "age": 49,
+    "tenureYears": 11,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r3",
+    "performance": {
+      "Q1_2025": 0.25,
+      "Q2_2025": 0.98,
+      "Q3_2025": 0.14,
+      "Q4_2025": 0.99
+    }
+  },
+  {
+    "id": "sm5",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm5",
+    "gender": "Female",
+    "age": 47,
+    "tenureYears": 2,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.28,
+      "Q2_2025": 0.52,
+      "Q3_2025": 0.56,
+      "Q4_2025": 0.32
+    }
+  },
+  {
+    "id": "sm6",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm6",
+    "gender": "Male",
+    "age": 26,
+    "tenureYears": 13,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.5,
+      "Q2_2025": 0.98,
+      "Q3_2025": 0.77,
+      "Q4_2025": 0.32
+    }
+  },
+  {
+    "id": "sm7",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm7",
+    "gender": "Male",
+    "age": 31,
+    "tenureYears": 1,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.13,
+      "Q2_2025": 0.13,
+      "Q3_2025": 0.38,
+      "Q4_2025": 0.08
+    }
+  },
+  {
+    "id": "sm8",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm8",
+    "gender": "Female",
+    "age": 32,
+    "tenureYears": 12,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r1",
+    "performance": {
+      "Q1_2025": 0.01,
+      "Q2_2025": 0.55,
+      "Q3_2025": 0.01,
+      "Q4_2025": 0.01
+    }
+  },
+  {
+    "id": "sm9",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm9",
+    "gender": "Female",
+    "age": 42,
+    "tenureYears": 2,
+    "crossCollaboration": "High",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.69,
+      "Q2_2025": 0.15,
+      "Q3_2025": 0.62,
+      "Q4_2025": 0.05
+    }
+  },
+  {
+    "id": "sm10",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm10",
+    "gender": "Female",
+    "age": 47,
+    "tenureYears": 13,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r10",
+    "performance": {
+      "Q1_2025": 0.79,
+      "Q2_2025": 0.02,
+      "Q3_2025": 0.43,
+      "Q4_2025": 0.16
+    }
+  },
+  {
+    "id": "sm11",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm11",
+    "gender": "Male",
+    "age": 29,
+    "tenureYears": 2,
+    "crossCollaboration": "High",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.93,
+      "Q2_2025": 0.7,
+      "Q3_2025": 0.62,
+      "Q4_2025": 0.57
+    }
+  },
+  {
+    "id": "sm12",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm12",
+    "gender": "Male",
+    "age": 56,
+    "tenureYears": 9,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.91,
+      "Q2_2025": 0.1,
+      "Q3_2025": 0.94,
+      "Q4_2025": 0.11
+    }
+  },
+  {
+    "id": "sm13",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm13",
+    "gender": "Female",
+    "age": 34,
+    "tenureYears": 9,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.81,
+      "Q2_2025": 0.08,
+      "Q3_2025": 0.87,
+      "Q4_2025": 0.2
+    }
+  },
+  {
+    "id": "sm14",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm14",
+    "gender": "Male",
+    "age": 35,
+    "tenureYears": 2,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.85,
+      "Q2_2025": 0.9,
+      "Q3_2025": 0.05,
+      "Q4_2025": 0.05
+    }
+  },
+  {
+    "id": "sm15",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm15",
+    "gender": "Female",
+    "age": 56,
+    "tenureYears": 9,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.67,
+      "Q2_2025": 0.61,
+      "Q3_2025": 0.17,
+      "Q4_2025": 0.32
+    }
+  },
+  {
+    "id": "sm16",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm16",
+    "gender": "Female",
+    "age": 31,
+    "tenureYears": 13,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r1",
+    "performance": {
+      "Q1_2025": 0.73,
+      "Q2_2025": 0.77,
+      "Q3_2025": 0.92,
+      "Q4_2025": 0.3
+    }
+  },
+  {
+    "id": "sm17",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm17",
+    "gender": "Male",
+    "age": 26,
+    "tenureYears": 1,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.83,
+      "Q2_2025": 0.5,
+      "Q3_2025": 0.9,
+      "Q4_2025": 0.01
+    }
+  },
+  {
+    "id": "sm18",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm18",
+    "gender": "Female",
+    "age": 44,
+    "tenureYears": 2,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.88,
+      "Q2_2025": 0.52,
+      "Q3_2025": 0.5,
+      "Q4_2025": 0.41
+    }
+  },
+  {
+    "id": "sm19",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm19",
+    "gender": "Male",
+    "age": 59,
+    "tenureYears": 3,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r10",
+    "performance": {
+      "Q1_2025": 0.17,
+      "Q2_2025": 0.97,
+      "Q3_2025": 0.16,
+      "Q4_2025": 1.0
+    }
+  },
+  {
+    "id": "sm20",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm20",
+    "gender": "Female",
+    "age": 46,
+    "tenureYears": 7,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r10",
+    "performance": {
+      "Q1_2025": 0.42,
+      "Q2_2025": 0.62,
+      "Q3_2025": 0.08,
+      "Q4_2025": 0.81
+    }
+  },
+  {
+    "id": "sm21",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm21",
+    "gender": "Female",
+    "age": 30,
+    "tenureYears": 6,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.77,
+      "Q2_2025": 0.59,
+      "Q3_2025": 0.59,
+      "Q4_2025": 0.28
+    }
+  },
+  {
+    "id": "sm22",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm22",
+    "gender": "Female",
+    "age": 27,
+    "tenureYears": 8,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.23,
+      "Q2_2025": 0.42,
+      "Q3_2025": 0.35,
+      "Q4_2025": 0.68
+    }
+  },
+  {
+    "id": "sm23",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm23",
+    "gender": "Female",
+    "age": 25,
+    "tenureYears": 7,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r2",
+    "performance": {
+      "Q1_2025": 0.47,
+      "Q2_2025": 0.4,
+      "Q3_2025": 0.32,
+      "Q4_2025": 0.52
+    }
+  },
+  {
+    "id": "sm24",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm24",
+    "gender": "Female",
+    "age": 42,
+    "tenureYears": 10,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.53,
+      "Q2_2025": 0.6,
+      "Q3_2025": 0.23,
+      "Q4_2025": 0.25
+    }
+  },
+  {
+    "id": "sm25",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm25",
+    "gender": "Female",
+    "age": 50,
+    "tenureYears": 6,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.25,
+      "Q2_2025": 0.66,
+      "Q3_2025": 0.0,
+      "Q4_2025": 0.31
+    }
+  },
+  {
+    "id": "sm26",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm26",
+    "gender": "Male",
+    "age": 47,
+    "tenureYears": 15,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.95,
+      "Q2_2025": 0.43,
+      "Q3_2025": 0.81,
+      "Q4_2025": 0.57
+    }
+  },
+  {
+    "id": "sm27",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm27",
+    "gender": "Female",
+    "age": 41,
+    "tenureYears": 12,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.56,
+      "Q2_2025": 0.59,
+      "Q3_2025": 0.54,
+      "Q4_2025": 0.54
+    }
+  },
+  {
+    "id": "sm28",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm28",
+    "gender": "Male",
+    "age": 36,
+    "tenureYears": 5,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.7,
+      "Q2_2025": 0.97,
+      "Q3_2025": 0.74,
+      "Q4_2025": 0.27
+    }
+  },
+  {
+    "id": "sm29",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm29",
+    "gender": "Female",
+    "age": 58,
+    "tenureYears": 1,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.24,
+      "Q2_2025": 0.17,
+      "Q3_2025": 0.94,
+      "Q4_2025": 0.45
+    }
+  },
+  {
+    "id": "sm30",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm30",
+    "gender": "Male",
+    "age": 50,
+    "tenureYears": 12,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r6",
+    "performance": {
+      "Q1_2025": 0.64,
+      "Q2_2025": 0.12,
+      "Q3_2025": 0.52,
+      "Q4_2025": 0.65
+    }
+  },
+  {
+    "id": "sm31",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm31",
+    "gender": "Female",
+    "age": 52,
+    "tenureYears": 10,
+    "crossCollaboration": "High",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.14,
+      "Q2_2025": 0.99,
+      "Q3_2025": 0.69,
+      "Q4_2025": 0.51
+    }
+  },
+  {
+    "id": "sm32",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm32",
+    "gender": "Female",
+    "age": 39,
+    "tenureYears": 9,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.11,
+      "Q2_2025": 0.99,
+      "Q3_2025": 0.59,
+      "Q4_2025": 0.77
+    }
+  },
+  {
+    "id": "sm33",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm33",
+    "gender": "Male",
+    "age": 40,
+    "tenureYears": 8,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.8,
+      "Q2_2025": 0.97,
+      "Q3_2025": 0.42,
+      "Q4_2025": 0.93
+    }
+  },
+  {
+    "id": "sm34",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm34",
+    "gender": "Male",
+    "age": 23,
+    "tenureYears": 11,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r10",
+    "performance": {
+      "Q1_2025": 0.79,
+      "Q2_2025": 0.75,
+      "Q3_2025": 0.14,
+      "Q4_2025": 0.49
+    }
+  },
+  {
+    "id": "sm35",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm35",
+    "gender": "Female",
+    "age": 32,
+    "tenureYears": 5,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r2",
+    "performance": {
+      "Q1_2025": 0.79,
+      "Q2_2025": 0.59,
+      "Q3_2025": 0.42,
+      "Q4_2025": 0.36
+    }
+  },
+  {
+    "id": "sm36",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm36",
+    "gender": "Male",
+    "age": 40,
+    "tenureYears": 8,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.15,
+      "Q2_2025": 0.36,
+      "Q3_2025": 0.61,
+      "Q4_2025": 0.38
+    }
+  },
+  {
+    "id": "sm37",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm37",
+    "gender": "Female",
+    "age": 48,
+    "tenureYears": 5,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.6,
+      "Q2_2025": 0.79,
+      "Q3_2025": 0.97,
+      "Q4_2025": 0.82
+    }
+  },
+  {
+    "id": "sm38",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm38",
+    "gender": "Male",
+    "age": 28,
+    "tenureYears": 12,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r2",
+    "performance": {
+      "Q1_2025": 0.4,
+      "Q2_2025": 0.34,
+      "Q3_2025": 0.13,
+      "Q4_2025": 0.92
+    }
+  },
+  {
+    "id": "sm39",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm39",
+    "gender": "Female",
+    "age": 30,
+    "tenureYears": 3,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r2",
+    "performance": {
+      "Q1_2025": 0.96,
+      "Q2_2025": 0.79,
+      "Q3_2025": 0.68,
+      "Q4_2025": 0.46
+    }
+  },
+  {
+    "id": "sm40",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm40",
+    "gender": "Female",
+    "age": 36,
+    "tenureYears": 13,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.1,
+      "Q2_2025": 0.33,
+      "Q3_2025": 0.76,
+      "Q4_2025": 0.39
+    }
+  },
+  {
+    "id": "sm41",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm41",
+    "gender": "Male",
+    "age": 45,
+    "tenureYears": 12,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.26,
+      "Q2_2025": 0.15,
+      "Q3_2025": 0.17,
+      "Q4_2025": 0.11
+    }
+  },
+  {
+    "id": "sm42",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm42",
+    "gender": "Female",
+    "age": 54,
+    "tenureYears": 9,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.09,
+      "Q2_2025": 0.88,
+      "Q3_2025": 0.88,
+      "Q4_2025": 0.09
+    }
+  },
+  {
+    "id": "sm43",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm43",
+    "gender": "Male",
+    "age": 48,
+    "tenureYears": 2,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.85,
+      "Q2_2025": 0.66,
+      "Q3_2025": 0.22,
+      "Q4_2025": 0.48
+    }
+  },
+  {
+    "id": "sm44",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm44",
+    "gender": "Female",
+    "age": 54,
+    "tenureYears": 5,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r1",
+    "performance": {
+      "Q1_2025": 0.41,
+      "Q2_2025": 0.42,
+      "Q3_2025": 0.52,
+      "Q4_2025": 0.08
+    }
+  },
+  {
+    "id": "sm45",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm45",
+    "gender": "Male",
+    "age": 23,
+    "tenureYears": 15,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.71,
+      "Q2_2025": 0.25,
+      "Q3_2025": 0.2,
+      "Q4_2025": 0.08
+    }
+  },
+  {
+    "id": "sm46",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm46",
+    "gender": "Female",
+    "age": 26,
+    "tenureYears": 5,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r2",
+    "performance": {
+      "Q1_2025": 0.69,
+      "Q2_2025": 0.46,
+      "Q3_2025": 0.64,
+      "Q4_2025": 0.92
+    }
+  },
+  {
+    "id": "sm47",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm47",
+    "gender": "Male",
+    "age": 31,
+    "tenureYears": 2,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.83,
+      "Q2_2025": 0.7,
+      "Q3_2025": 0.32,
+      "Q4_2025": 0.34
+    }
+  },
+  {
+    "id": "sm48",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm48",
+    "gender": "Female",
+    "age": 26,
+    "tenureYears": 2,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.12,
+      "Q2_2025": 0.61,
+      "Q3_2025": 0.19,
+      "Q4_2025": 0.82
+    }
+  },
+  {
+    "id": "sm49",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm49",
+    "gender": "Male",
+    "age": 39,
+    "tenureYears": 1,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r1",
+    "performance": {
+      "Q1_2025": 0.82,
+      "Q2_2025": 0.33,
+      "Q3_2025": 0.05,
+      "Q4_2025": 0.7
+    }
+  },
+  {
+    "id": "sm50",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm50",
+    "gender": "Female",
+    "age": 34,
+    "tenureYears": 14,
+    "crossCollaboration": "High",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r6",
+    "performance": {
+      "Q1_2025": 0.91,
+      "Q2_2025": 0.03,
+      "Q3_2025": 1.0,
+      "Q4_2025": 0.01
+    }
+  },
+  {
+    "id": "sm51",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm51",
+    "gender": "Female",
+    "age": 59,
+    "tenureYears": 9,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r1",
+    "performance": {
+      "Q1_2025": 0.38,
+      "Q2_2025": 0.65,
+      "Q3_2025": 0.89,
+      "Q4_2025": 0.85
+    }
+  },
+  {
+    "id": "sm52",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm52",
+    "gender": "Female",
+    "age": 23,
+    "tenureYears": 2,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.21,
+      "Q2_2025": 0.82,
+      "Q3_2025": 0.73,
+      "Q4_2025": 0.03
+    }
+  },
+  {
+    "id": "sm53",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm53",
+    "gender": "Male",
+    "age": 26,
+    "tenureYears": 2,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r10",
+    "performance": {
+      "Q1_2025": 0.51,
+      "Q2_2025": 0.45,
+      "Q3_2025": 0.19,
+      "Q4_2025": 0.43
+    }
+  },
+  {
+    "id": "sm54",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm54",
+    "gender": "Male",
+    "age": 54,
+    "tenureYears": 14,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r6",
+    "performance": {
+      "Q1_2025": 0.6,
+      "Q2_2025": 0.37,
+      "Q3_2025": 0.81,
+      "Q4_2025": 0.91
+    }
+  },
+  {
+    "id": "sm55",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm55",
+    "gender": "Female",
+    "age": 33,
+    "tenureYears": 15,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.85,
+      "Q2_2025": 0.35,
+      "Q3_2025": 0.43,
+      "Q4_2025": 0.42
+    }
+  },
+  {
+    "id": "sm56",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm56",
+    "gender": "Female",
+    "age": 60,
+    "tenureYears": 11,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r10",
+    "performance": {
+      "Q1_2025": 0.21,
+      "Q2_2025": 0.17,
+      "Q3_2025": 0.55,
+      "Q4_2025": 0.26
+    }
+  },
+  {
+    "id": "sm57",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm57",
+    "gender": "Male",
+    "age": 51,
+    "tenureYears": 8,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r6",
+    "performance": {
+      "Q1_2025": 0.19,
+      "Q2_2025": 0.69,
+      "Q3_2025": 0.22,
+      "Q4_2025": 0.55
+    }
+  },
+  {
+    "id": "sm58",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm58",
+    "gender": "Male",
+    "age": 56,
+    "tenureYears": 15,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r2",
+    "performance": {
+      "Q1_2025": 0.02,
+      "Q2_2025": 0.36,
+      "Q3_2025": 0.05,
+      "Q4_2025": 0.3
+    }
+  },
+  {
+    "id": "sm59",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm59",
+    "gender": "Female",
+    "age": 57,
+    "tenureYears": 10,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.12,
+      "Q2_2025": 0.4,
+      "Q3_2025": 0.54,
+      "Q4_2025": 0.75
+    }
+  },
+  {
+    "id": "sm60",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm60",
+    "gender": "Female",
+    "age": 26,
+    "tenureYears": 8,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r3",
+    "performance": {
+      "Q1_2025": 0.05,
+      "Q2_2025": 0.3,
+      "Q3_2025": 0.67,
+      "Q4_2025": 0.42
+    }
+  },
+  {
+    "id": "sm61",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm61",
+    "gender": "Male",
+    "age": 54,
+    "tenureYears": 2,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.46,
+      "Q2_2025": 0.5,
+      "Q3_2025": 0.63,
+      "Q4_2025": 0.22
+    }
+  },
+  {
+    "id": "sm62",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm62",
+    "gender": "Male",
+    "age": 54,
+    "tenureYears": 10,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.34,
+      "Q2_2025": 0.02,
+      "Q3_2025": 0.12,
+      "Q4_2025": 0.74
+    }
+  },
+  {
+    "id": "sm63",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm63",
+    "gender": "Female",
+    "age": 53,
+    "tenureYears": 15,
+    "crossCollaboration": "High",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.93,
+      "Q2_2025": 0.31,
+      "Q3_2025": 0.66,
+      "Q4_2025": 0.24
+    }
+  },
+  {
+    "id": "sm64",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm64",
+    "gender": "Male",
+    "age": 35,
+    "tenureYears": 10,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.94,
+      "Q2_2025": 0.12,
+      "Q3_2025": 0.1,
+      "Q4_2025": 0.91
+    }
+  },
+  {
+    "id": "sm65",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm65",
+    "gender": "Female",
+    "age": 39,
+    "tenureYears": 6,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.86,
+      "Q2_2025": 0.92,
+      "Q3_2025": 0.86,
+      "Q4_2025": 0.45
+    }
+  },
+  {
+    "id": "sm66",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm66",
+    "gender": "Female",
+    "age": 33,
+    "tenureYears": 4,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r3",
+    "performance": {
+      "Q1_2025": 0.89,
+      "Q2_2025": 0.96,
+      "Q3_2025": 0.41,
+      "Q4_2025": 0.26
+    }
+  },
+  {
+    "id": "sm67",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm67",
+    "gender": "Female",
+    "age": 56,
+    "tenureYears": 6,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r1",
+    "performance": {
+      "Q1_2025": 0.78,
+      "Q2_2025": 0.53,
+      "Q3_2025": 0.69,
+      "Q4_2025": 0.02
+    }
+  },
+  {
+    "id": "sm68",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm68",
+    "gender": "Male",
+    "age": 24,
+    "tenureYears": 14,
+    "crossCollaboration": "High",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.9,
+      "Q2_2025": 0.42,
+      "Q3_2025": 0.37,
+      "Q4_2025": 0.38
+    }
+  },
+  {
+    "id": "sm69",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm69",
+    "gender": "Female",
+    "age": 25,
+    "tenureYears": 11,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r10",
+    "performance": {
+      "Q1_2025": 0.17,
+      "Q2_2025": 0.01,
+      "Q3_2025": 0.76,
+      "Q4_2025": 0.86
+    }
+  },
+  {
+    "id": "sm70",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm70",
+    "gender": "Female",
+    "age": 53,
+    "tenureYears": 10,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r3",
+    "performance": {
+      "Q1_2025": 0.99,
+      "Q2_2025": 0.64,
+      "Q3_2025": 0.06,
+      "Q4_2025": 0.37
+    }
+  },
+  {
+    "id": "sm71",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm71",
+    "gender": "Female",
+    "age": 31,
+    "tenureYears": 8,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r3",
+    "performance": {
+      "Q1_2025": 0.15,
+      "Q2_2025": 0.15,
+      "Q3_2025": 0.26,
+      "Q4_2025": 0.9
+    }
+  },
+  {
+    "id": "sm72",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm72",
+    "gender": "Female",
+    "age": 38,
+    "tenureYears": 1,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.1,
+      "Q2_2025": 0.86,
+      "Q3_2025": 0.4,
+      "Q4_2025": 0.64
+    }
+  },
+  {
+    "id": "sm73",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm73",
+    "gender": "Male",
+    "age": 55,
+    "tenureYears": 1,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r6",
+    "performance": {
+      "Q1_2025": 0.97,
+      "Q2_2025": 0.99,
+      "Q3_2025": 0.36,
+      "Q4_2025": 0.18
+    }
+  },
+  {
+    "id": "sm74",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm74",
+    "gender": "Male",
+    "age": 29,
+    "tenureYears": 4,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.43,
+      "Q2_2025": 0.6,
+      "Q3_2025": 0.52,
+      "Q4_2025": 0.98
+    }
+  },
+  {
+    "id": "sm75",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm75",
+    "gender": "Male",
+    "age": 33,
+    "tenureYears": 3,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.62,
+      "Q2_2025": 0.46,
+      "Q3_2025": 0.39,
+      "Q4_2025": 0.59
+    }
+  },
+  {
+    "id": "sm76",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm76",
+    "gender": "Female",
+    "age": 45,
+    "tenureYears": 6,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.37,
+      "Q2_2025": 0.2,
+      "Q3_2025": 0.91,
+      "Q4_2025": 0.48
+    }
+  },
+  {
+    "id": "sm77",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm77",
+    "gender": "Female",
+    "age": 34,
+    "tenureYears": 6,
+    "crossCollaboration": "High",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.3,
+      "Q2_2025": 0.75,
+      "Q3_2025": 0.36,
+      "Q4_2025": 0.89
+    }
+  },
+  {
+    "id": "sm78",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm78",
+    "gender": "Male",
+    "age": 49,
+    "tenureYears": 4,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.25,
+      "Q2_2025": 0.06,
+      "Q3_2025": 0.64,
+      "Q4_2025": 0.24
+    }
+  },
+  {
+    "id": "sm79",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm79",
+    "gender": "Male",
+    "age": 56,
+    "tenureYears": 8,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.97,
+      "Q2_2025": 0.73,
+      "Q3_2025": 0.07,
+      "Q4_2025": 0.4
+    }
+  },
+  {
+    "id": "sm80",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm80",
+    "gender": "Female",
+    "age": 48,
+    "tenureYears": 5,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r6",
+    "performance": {
+      "Q1_2025": 0.5,
+      "Q2_2025": 0.27,
+      "Q3_2025": 0.94,
+      "Q4_2025": 0.45
+    }
+  },
+  {
+    "id": "sm81",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm81",
+    "gender": "Female",
+    "age": 58,
+    "tenureYears": 1,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r10",
+    "performance": {
+      "Q1_2025": 0.74,
+      "Q2_2025": 0.44,
+      "Q3_2025": 0.31,
+      "Q4_2025": 0.34
+    }
+  },
+  {
+    "id": "sm82",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm82",
+    "gender": "Male",
+    "age": 55,
+    "tenureYears": 3,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.68,
+      "Q2_2025": 0.05,
+      "Q3_2025": 0.44,
+      "Q4_2025": 0.01
+    }
+  },
+  {
+    "id": "sm83",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm83",
+    "gender": "Female",
+    "age": 56,
+    "tenureYears": 2,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r7",
+    "performance": {
+      "Q1_2025": 0.71,
+      "Q2_2025": 0.25,
+      "Q3_2025": 0.93,
+      "Q4_2025": 0.53
+    }
+  },
+  {
+    "id": "sm84",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm84",
+    "gender": "Male",
+    "age": 43,
+    "tenureYears": 14,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.94,
+      "Q2_2025": 0.21,
+      "Q3_2025": 0.5,
+      "Q4_2025": 0.18
+    }
+  },
+  {
+    "id": "sm85",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm85",
+    "gender": "Female",
+    "age": 56,
+    "tenureYears": 7,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r6",
+    "performance": {
+      "Q1_2025": 0.97,
+      "Q2_2025": 0.94,
+      "Q3_2025": 0.36,
+      "Q4_2025": 0.06
+    }
+  },
+  {
+    "id": "sm86",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm86",
+    "gender": "Female",
+    "age": 50,
+    "tenureYears": 8,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.18,
+      "Q2_2025": 0.87,
+      "Q3_2025": 0.7,
+      "Q4_2025": 0.77
+    }
+  },
+  {
+    "id": "sm87",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm87",
+    "gender": "Female",
+    "age": 25,
+    "tenureYears": 12,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r1",
+    "performance": {
+      "Q1_2025": 0.49,
+      "Q2_2025": 0.0,
+      "Q3_2025": 0.23,
+      "Q4_2025": 0.02
+    }
+  },
+  {
+    "id": "sm88",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm88",
+    "gender": "Female",
+    "age": 55,
+    "tenureYears": 8,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r3",
+    "performance": {
+      "Q1_2025": 0.36,
+      "Q2_2025": 0.36,
+      "Q3_2025": 0.46,
+      "Q4_2025": 0.19
+    }
+  },
+  {
+    "id": "sm89",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm89",
+    "gender": "Male",
+    "age": 52,
+    "tenureYears": 9,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r3",
+    "performance": {
+      "Q1_2025": 0.38,
+      "Q2_2025": 0.13,
+      "Q3_2025": 0.43,
+      "Q4_2025": 0.28
+    }
+  },
+  {
+    "id": "sm90",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm90",
+    "gender": "Male",
+    "age": 33,
+    "tenureYears": 11,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r9",
+    "performance": {
+      "Q1_2025": 0.08,
+      "Q2_2025": 0.91,
+      "Q3_2025": 0.25,
+      "Q4_2025": 0.93
+    }
+  },
+  {
+    "id": "sm91",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm91",
+    "gender": "Male",
+    "age": 42,
+    "tenureYears": 4,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.95,
+      "Q2_2025": 0.33,
+      "Q3_2025": 0.15,
+      "Q4_2025": 0.12
+    }
+  },
+  {
+    "id": "sm92",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm92",
+    "gender": "Female",
+    "age": 27,
+    "tenureYears": 13,
+    "crossCollaboration": "Medium",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.21,
+      "Q2_2025": 0.85,
+      "Q3_2025": 0.46,
+      "Q4_2025": 0.88
+    }
+  },
+  {
+    "id": "sm93",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm93",
+    "gender": "Male",
+    "age": 25,
+    "tenureYears": 1,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.97,
+      "Q2_2025": 0.5,
+      "Q3_2025": 0.35,
+      "Q4_2025": 0.59
+    }
+  },
+  {
+    "id": "sm94",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm94",
+    "gender": "Female",
+    "age": 36,
+    "tenureYears": 4,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.25,
+      "Q2_2025": 0.75,
+      "Q3_2025": 0.18,
+      "Q4_2025": 0.88
+    }
+  },
+  {
+    "id": "sm95",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm95",
+    "gender": "Male",
+    "age": 39,
+    "tenureYears": 12,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.14,
+      "Q2_2025": 0.76,
+      "Q3_2025": 0.67,
+      "Q4_2025": 0.12
+    }
+  },
+  {
+    "id": "sm96",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm96",
+    "gender": "Female",
+    "age": 25,
+    "tenureYears": 8,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r5",
+    "performance": {
+      "Q1_2025": 0.27,
+      "Q2_2025": 0.31,
+      "Q3_2025": 0.74,
+      "Q4_2025": 0.09
+    }
+  },
+  {
+    "id": "sm97",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm97",
+    "gender": "Male",
+    "age": 39,
+    "tenureYears": 7,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Intermediate",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.14,
+      "Q2_2025": 0.54,
+      "Q3_2025": 0.61,
+      "Q4_2025": 0.54
+    }
+  },
+  {
+    "id": "sm98",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm98",
+    "gender": "Male",
+    "age": 29,
+    "tenureYears": 6,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Beginner",
+    "assignedRegion": "r4",
+    "performance": {
+      "Q1_2025": 0.3,
+      "Q2_2025": 0.06,
+      "Q3_2025": 0.5,
+      "Q4_2025": 0.65
+    }
+  },
+  {
+    "id": "sm99",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm99",
+    "gender": "Female",
+    "age": 56,
+    "tenureYears": 1,
+    "crossCollaboration": "High",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r8",
+    "performance": {
+      "Q1_2025": 0.48,
+      "Q2_2025": 0.78,
+      "Q3_2025": 0.66,
+      "Q4_2025": 1.0
+    }
+  },
+  {
+    "id": "sm100",
+    "pk": "salesman",
+    "label": "salesman",
+    "salesmanId": "sm100",
+    "gender": "Male",
+    "age": 50,
+    "tenureYears": 3,
+    "crossCollaboration": "Low",
+    "learningBehavior": "Advanced",
+    "assignedRegion": "r3",
+    "performance": {
+      "Q1_2025": 0.06,
+      "Q2_2025": 0.99,
+      "Q3_2025": 0.49,
+      "Q4_2025": 0.21
+    }
+  }
+]

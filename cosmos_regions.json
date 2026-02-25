@@ -1,0 +1,132 @@
+[
+  {
+    "id": "r1",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r1",
+    "regionPotential": "Low",
+    "engagement": {
+      "Q1_2025": 0.79,
+      "Q2_2025": 0.89,
+      "Q3_2025": 0.21,
+      "Q4_2025": 0.44
+    }
+  },
+  {
+    "id": "r2",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r2",
+    "regionPotential": "Low",
+    "engagement": {
+      "Q1_2025": 0.88,
+      "Q2_2025": 0.32,
+      "Q3_2025": 0.25,
+      "Q4_2025": 0.51
+    }
+  },
+  {
+    "id": "r3",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r3",
+    "regionPotential": "Low",
+    "engagement": {
+      "Q1_2025": 0.58,
+      "Q2_2025": 0.52,
+      "Q3_2025": 0.45,
+      "Q4_2025": 0.41
+    }
+  },
+  {
+    "id": "r4",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r4",
+    "regionPotential": "High",
+    "engagement": {
+      "Q1_2025": 0.8,
+      "Q2_2025": 0.79,
+      "Q3_2025": 0.65,
+      "Q4_2025": 0.68
+    }
+  },
+  {
+    "id": "r5",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r5",
+    "regionPotential": "Low",
+    "engagement": {
+      "Q1_2025": 0.86,
+      "Q2_2025": 0.35,
+      "Q3_2025": 0.59,
+      "Q4_2025": 0.84
+    }
+  },
+  {
+    "id": "r6",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r6",
+    "regionPotential": "Low",
+    "engagement": {
+      "Q1_2025": 0.27,
+      "Q2_2025": 0.91,
+      "Q3_2025": 0.32,
+      "Q4_2025": 0.23
+    }
+  },
+  {
+    "id": "r7",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r7",
+    "regionPotential": "Low",
+    "engagement": {
+      "Q1_2025": 0.4,
+      "Q2_2025": 0.25,
+      "Q3_2025": 0.85,
+      "Q4_2025": 0.69
+    }
+  },
+  {
+    "id": "r8",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r8",
+    "regionPotential": "High",
+    "engagement": {
+      "Q1_2025": 0.48,
+      "Q2_2025": 0.47,
+      "Q3_2025": 0.35,
+      "Q4_2025": 0.64
+    }
+  },
+  {
+    "id": "r9",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r9",
+    "regionPotential": "Medium",
+    "engagement": {
+      "Q1_2025": 0.82,
+      "Q2_2025": 0.84,
+      "Q3_2025": 0.26,
+      "Q4_2025": 0.69
+    }
+  },
+  {
+    "id": "r10",
+    "pk": "region",
+    "label": "region",
+    "regionId": "r10",
+    "regionPotential": "Low",
+    "engagement": {
+      "Q1_2025": 0.51,
+      "Q2_2025": 0.82,
+      "Q3_2025": 0.5,
+      "Q4_2025": 0.72
+    }
+  }
+]
